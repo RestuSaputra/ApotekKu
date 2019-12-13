@@ -1,0 +1,61 @@
+@font-face
+{
+	font-family: "Roboto";
+	src:url(../font/Roboto-Thin.ttf);
+}
+
+
+.editTambah
+{
+	background:#DCDCDC;
+	border: none;
+	outline: none;
+	padding-top: 16px;
+	margin-left: 30px;
+	margin-bottom: 10px;
+}
+.editUpdate
+{
+	background:#fbfbfb;
+	border: none;
+	outline: none;
+	padding-top: 14px;
+}
+.boxInformasi
+{
+	box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);
+	width: 1300px;
+	height: 400px;
+	background: white;
+	border-radius: 5px;
+	opacity: 0.9;
+    filter: alpha(opacity=60);
+    overflow: scroll;
+    margin-left: 25px;
+}
+.huruf
+{
+	font-family: "Raleway",sans-serif;
+	font-size: 11pt;
+	margin-left: 15px;
+}
+.buttonAja
+{
+	width: 120px;
+	height: 30px;
+	font-family: "Roboto";
+	font-size: 12pt;
+	color: white;
+	font-weight: bold;
+	margin-right: 25px;
+	background: #00BFFF;
+	border:none;
+	box-shadow: box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);
+
+}
+.space
+{
+	text-align: right;
+	margin-top: 20px;
+}
+
