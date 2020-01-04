@@ -1,0 +1,8 @@
+Pada Sprint Ke-1
+Pembuatan Menu Admin dan API
+
+Pada Sprint Ke-2
+Pembuatan Menu Kasir Dan Apoteker serta API
+
+Pada Sprint Ke-3
+Pembuatan Menu Laporan untuk Owner dan API
